@@ -1,0 +1,5 @@
+# ignore unwanted folders/files
+02
+*.exe
+.DS_Store
+node_modules/
